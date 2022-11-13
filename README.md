@@ -106,5 +106,7 @@ Okay, we're really scraping the bottom of the barrel here. Super-Nova is the res
 
 Super Nova pits your as the driver of a rocket-powered Vauxhall Nova, violently flying through space as you dash away from a Supernova - hurtling by the suspiciously densely packed planetoids that seek to plunge you to your doom!
 
+I'm a bit cheeky because this game didn't actually win any awards, I just think it's funny.
+
 WARNING: Strong and crude language
 https://leversoftware.itch.io/super-nova
